@@ -1,7 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gradle
 .idea
-.build
-.out
+build/
+out/
 *.iml
 application-oauth.properties
